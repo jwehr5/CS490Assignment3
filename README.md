@@ -5,3 +5,6 @@ How to Run the Program:
   3. Extract the folder to a place on your computer that you can easily access.
   4. Open the folder and click on the file "Assignment 3 Ver 2".
   5. In your Racket IDE run the code.
+
+Additional Information:
+  * This file "CS490 Assignment 3 Description.docx" contains the description for the assignment.
