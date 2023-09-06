@@ -7,4 +7,4 @@ How to Run the Program:
   5. In your Racket IDE run the code.
 
 Additional Information:
-  * This file "CS490 Assignment 3 Description.docx" contains the description for the assignment.
+  * The file "CS490 Assignment 3 Description.docx" contains the description for the assignment.
